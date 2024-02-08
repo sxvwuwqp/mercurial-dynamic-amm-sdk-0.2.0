@@ -142,3 +142,4 @@ export const DEV_POOLS: {
     admin: new PublicKey("FXBXnxEEfwZJA1xnyJzKEhhJXmussKXKRdq5cAh19dbC"),
   },
 };
+export const POOL_BASE_KEY = new PublicKey('H9NnqW5Thn9dUzW3DRXe2xDhKjwZd4qbjngnZwEvnDuC');
